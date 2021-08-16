@@ -13,3 +13,7 @@ Installation
 2. import upip
 3. upip.install('picoweb')
 4. upip.install('micropython-ulogging')
+
+Images
+
+![Image of ESP32-CAM](images/esp32-cam.jpg)
