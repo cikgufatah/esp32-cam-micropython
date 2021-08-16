@@ -1,6 +1,11 @@
 # esp32-cam-micropython
 ESP32-CAM Micropython Example
 
+My Components
+
+1. OV2640 Camera
+2. DHT11
+3. LDR (3 Pin, Pull Down)
 
 Installation
 
